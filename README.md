@@ -3,4 +3,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behzadsp&layout=donut&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=behzadsp)](https://github.com/anuraghazra/github-readme-stats)
+[![Behzad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=behzadsp)](https://github.com/anuraghazra/github-readme-stats)
