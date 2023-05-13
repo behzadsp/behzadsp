@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=behzadsp&color=green)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The best error message is the one that never shows up.&author=Thomas Fuchs)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![Behzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=behzadsp&theme=gotham&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
