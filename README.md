@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=behzadsp&color=green)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Hello)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![Behzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=behzadsp&theme=gotham&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
