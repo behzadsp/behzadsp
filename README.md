@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=behzadsp&color=green)
-
 <h1 align="center">Hi 👋, I'm Behzad Soltanpour</h1>
 
 ![](https://komarev.com/ghpvc/?username=behzadsp&color=green)
